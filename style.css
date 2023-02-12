@@ -104,10 +104,12 @@ body{
     font-size: 30px;
     color: #151414;
     margin-bottom: 15px;
+   padding-left: 15px;
 }
 
 .first-description{
     font-weight: 500;
     font-size: 25px;
     color: #737272;
+    padding-left: 15px;
 }
