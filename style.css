@@ -1,6 +1,6 @@
 main{
     margin: 0; 
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans';
 }
 body{
     margin: 0;
@@ -47,6 +47,7 @@ body{
 }
 
 /* My-Failure-Section */
+
  .section-container{
     display: flex;
     gap: 91px;
@@ -65,8 +66,6 @@ body{
     font-size: 40px;
     color: #151414;
     margin-bottom: 30px;
-    
-    
 }
 
 .content-description{
@@ -74,7 +73,6 @@ body{
     font-size: 16px;
     color: #444343;
     margin-bottom: 30px;
-   
 }
 
 .content-list li{
@@ -83,4 +81,33 @@ body{
    color: #444343;
    margin-bottom: 15px;
    
+}
+
+/* My plan section */
+
+.my-plan h2{
+ text-align: center;
+ font-weight: 700;
+ font-size: 40px;
+ color: #151414;
+}
+
+.plan-box{
+    display: flex;
+    gap: 90px;
+    margin-left: 355px;
+    text-align: center;
+}
+    
+.first-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-bottom: 15px;
+}
+
+.first-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
 }
