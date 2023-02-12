@@ -142,3 +142,72 @@ body{
     color: #FFFFFF; 
 
 }
+
+/* Footer */
+
+.footer{
+    display: flex;
+    background: #151414;
+    height: 500px;
+    gap: 50px;
+}
+
+.future-section{
+    margin-left: 300px;
+    margin-top: 130px;
+    color: #FFFFFF;
+}
+.future-title{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.future-description{
+    font-weight: 400;
+    font-size: 16px;
+    width: 50%;
+}
+.icon{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.icon a{
+   padding-right: 10px;
+   padding-top: 10px; 
+}
+
+.sub{
+    margin-right:300px;
+    margin-top: 152px;
+    color: #FFFFFF;
+}
+
+.footer-title{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+
+.sub .btn{
+    margin-top: 20px;
+}
+
+.sub input[type="email"]{
+    width: 325px;
+    padding-bottom: 30px;
+    background: #151414;
+    border-radius: 5px;
+}
+
+::placeholder{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+    
+
+
+
+
