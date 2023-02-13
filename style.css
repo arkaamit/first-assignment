@@ -1,15 +1,13 @@
-main{
-    margin: 0; 
-    font-family: 'Work Sans';
-}
+
 body{
     margin: 0;
+    font-family: 'Work Sans';
 }
 
 /* Head Section */
 
 .header{
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(images/banner/banner3.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
